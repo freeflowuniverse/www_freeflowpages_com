@@ -1464,6 +1464,8 @@ body {
 }
 .cid-rm82XpYxpi .menu-logo .navbar-brand .navbar-logo img {
   display: flex;
+  width: 170px;
+  height: 35px;
 }
 .cid-rm82XpYxpi .menu-logo .navbar-brand .navbar-logo .mbr-iconfont {
   transition: font-size 0.25s;
@@ -1540,7 +1542,8 @@ body {
   font-size: 2.5rem !important;
 }
 .cid-rm82XpYxpi .navbar.navbar-short .navbar-logo a img {
-  height: 3rem !important;
+  height: 35px;
+  width: 170px;
 }
 .cid-rm82XpYxpi .navbar.navbar-short .navbar-brand {
   min-height: 3rem;
@@ -1701,7 +1704,7 @@ body {
     -webkit-flex-direction: column;
   }
   .cid-rm82XpYxpi img {
-    height: 3.8rem !important;
+    height: 35px;
   }
   .cid-rm82XpYxpi .btn {
     display: -webkit-flex;
@@ -1786,12 +1789,6 @@ body {
     border-left: .30em solid transparent;
   }
 }
-@media (min-width: 767px) {
-  .cid-rm82XpYxpi .menu-logo {
-    flex-shrink: 0;
-    -webkit-flex-shrink: 0;
-  }
-}
 .cid-rm82XpYxpi .navbar-collapse {
   flex-basis: auto;
   -webkit-flex-basis: auto;
@@ -1805,7 +1802,7 @@ body {
 }
 .cid-rkGoZZVpNp .mbr-section-subtitle {
   font-style: italic;
-  letter-spacing: 1rem;
+  letter-spacing: 0.4rem;
 }
 .cid-rkGoZZVpNp .mbr-section-title {
   text-align: left;
