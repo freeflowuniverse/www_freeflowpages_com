@@ -1855,11 +1855,6 @@ body {
 .cid-rl4HgSgAj9 B {
   color: #149dcc;
 }
-.cid-rm82Mm2JT0 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
-}
 .cid-rm88OKgSeI {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1940,4 +1935,9 @@ body {
 }
 .cid-rm88OKgSeI .media-container-row .mbr-text {
   color: #55b4d4;
+}
+.cid-rm82Mm2JT0 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
 }
